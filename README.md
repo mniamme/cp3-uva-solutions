@@ -1,2 +1,2 @@
 # cp3-uva-solutions
-Solutions for uva problems related to "Competitive Programming 3" book
+My solutions for some uva problems related to "Competitive Programming 3" book
